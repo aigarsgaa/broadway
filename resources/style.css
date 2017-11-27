@@ -1,5 +1,5 @@
 body {
-	font-family: HElvetica;
+	font-family: Helvetica;
 	text-align: center;
 }
 
@@ -16,6 +16,26 @@ h1 {
 
 a {
 	font-size: 18px;
+	color: white;
+}
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 23px;
+	font-weight:b bold;
+}
+
+p {
+	font-size: 14px;
+}
+
+h4 {
+	font-size: 23px;
+	font-weight: bold;
 	color: white;
 }
 
