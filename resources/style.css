@@ -1,0 +1,27 @@
+body {
+	font-family: HElvetica;
+	text-align: center;
+}
+
+.top {
+	background-image: url("building.png");
+	background-size: cover;
+}
+
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+
+a {
+	font-size: 18px;
+	color: white;
+}
+
+#footer {
+	text-align: left;
+	font-size: 11px;
+	color:white;
+	background-color: dimgray;
+}
